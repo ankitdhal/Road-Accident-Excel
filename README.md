@@ -1,4 +1,4 @@
-![image](https://github.com/ankitdhal/Road-Accident-Excel/assets/69661866/84f8a734-e31e-4c98-97a5-ca42eb809f33)# Road-Accident-Excel
+# Road-Accident-Excel
 Road Accident Analysis for Year 2021-22 Using Excel
 
 **Key Insights**
@@ -11,3 +11,7 @@ Road Accident Analysis for Year 2021-22 Using Excel
 ✅ Maximum Casualties happened in the month of November 2022 and Minimum in January 2022.
 ✅ Maximum Casualties by Single Carriageway road type and Minimum by **Slip road**.
 ✅ Highest Distribution of total casualties on **Dry road surfaces**.
+
+
+![Road Accident Dashboard](https://github.com/ankitdhal/Road-Accident-Excel/assets/69661866/6a20536e-de42-450b-9141-1c61ac660904)
+
